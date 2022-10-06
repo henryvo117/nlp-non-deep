@@ -28,6 +28,17 @@
 ├── pyproject.toml
 └── theoretical_questions.pdf
 ```
+- The project's packages are managed by Poetry to provide easy maintenance.
+
+- In the root, there will be a `theoretical_questions.pdf` that contains all the theoretical questions presented at the end of Lab 04
+
+- In each `lab_*` folder there will be a Jupyter Notebook that contains the code + report of the objectives. All the questions are answered within the jupyter notebook using markdown to provide structure.
+
+## Lab 02
+
+### Short description of the project
+
+- The lab is an introduction to preprocessing method on text data such as stemming or lemmatization. The model used here is MultinomialNB by scikit-learn which is not the most accurate when it comes to predicting but provides a good foundation for the following labs after to build upon.
 
 ## Lab 03
 
