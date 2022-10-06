@@ -52,3 +52,9 @@
 - For question 2 train.txt is used to train a FastText classifier with default parameters on the training data and test.txt is used for evaluation on the data using accuracy. 
 - Then, for question 3 imdb_train.txt is used to train the model. imdb_valid.txt is used as a a validation file with the -autotune-validation argument.
 - Finally for question 5 incorrect_format_1_test.txt and incorrect_format_2_test.txt are used to take 2 wrongly classified examples from the test set
+
+## Lab 04
+
+### Short description of the project
+
+- The project is an introduction to the RNN and LSTM deep learning neural network used for NLP. In this lab, we get to familiarize with torch and its package and also applied all the pretreatment method learned from the beginning to combine and create a fully functional model that is able to predict given an input text.
