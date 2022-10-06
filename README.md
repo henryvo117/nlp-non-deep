@@ -13,19 +13,20 @@
 ├── lab_02
 │   └── nlp02.ipynb
 ├── lab_03
-│   ├── README.md
 │   ├── imdb_train.txt
 │   ├── imdb_valid.txt
 │   ├── incorrect_format_1_test.txt
 │   ├── incorrect_format_2_test.txt
 │   ├── lab03.docx
+│   ├── lab03.pdf
 │   ├── nlp03.ipynb
 │   ├── test.txt
 │   └── train.txt
 ├── lab_04
 │   └── nlp04.ipynb
 ├── poetry.lock
-└── pyproject.toml
+├── pyproject.toml
+└── theoretical_questions.pdf
 ```
 
 ## Lab 03
