@@ -35,3 +35,9 @@
 ### Short description of the project
 
 - The project's goal is to evaluate a semantic search with and without nearest neighbours approximation based on the Mean Average Precision and runtime
+
+## Lab 08
+
+### Short description of the project
+
+- The project's goal is to analyze dataset and the pretrained model RoBERTa's performance, the project also shows how to properly annotate the dataset and how to evaluate the inter-annotator agreement using Fleiss Kappa
