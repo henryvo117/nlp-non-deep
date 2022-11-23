@@ -15,6 +15,11 @@
 │   └── nlp06.ipynb
 ├── lab_07
 │   └── nlp07.ipynb
+├── lab_08
+│   └── nlp08.ipynb
+│   └── annotation_sheets_and_interannotator_agreement.xlsx
+│   └── nlp08_report.docx
+│   └── nlp08.zip
 ```
 - In each `lab_*` folder there will be a Jupyter Notebook that contains the code + report of the objectives. All the questions are answered within the jupyter notebook using markdown to provide structure.
 
